@@ -1,4 +1,8 @@
-# practical-data-pipeline
+# Practical Data Pipeline
 
-Gitbook Repo for Practical Data Pipeline :fire:
+All content is written in Korean.
+
+
+
+
 
