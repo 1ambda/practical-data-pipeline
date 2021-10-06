@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Practical Data Pipeline \(실용적인 데이터 파이프라인\)](README.md)
+* [Practical Data Pipeline](README.md)
 * [시작 전에 드리는 당부의 말](undefined.md)
 
 ## 01 - 데이터 수집 <a id="01-ingestion"></a>
