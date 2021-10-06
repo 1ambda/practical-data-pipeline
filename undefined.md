@@ -4,7 +4,7 @@ description: Disclaimer
 
 # 시작 전에 드리는 당부의 말
 
-이 책은 fully-opinionated 된 내용을 담고 있습니다. 
+이 책은 Fully-opinionated 된 내용을 담고 있습니다. 
 
 * 한 개인의 경험을 기반으로 씌여졌으며
 * AWS 클라우드를 이용해 물리 비용을 적게들여 데이터 시스템을 구성하거나
