@@ -24,7 +24,12 @@
 
 ## 04 - 데이터 스토리지 <a id="04-data-storage"></a>
 
-* [Untitled](04-data-storage/untitled.md)
+* [4.1 Kafka](04-data-storage/untitled.md)
+* [4.2 Redis](04-data-storage/4.2.md)
+* [4.3 RDB \(MySQL\)](04-data-storage/4.3-rdb-mysql.md)
+* [4.4 ElasticSearch](04-data-storage/4.4.md)
+* [4.5 KV Storage \(DynamoDB\)](04-data-storage/4.5-kv-storage-dynamodb.md)
+* [4.6 Druid](04-data-storage/4.6-druid.md)
 
 ## 05 - 데이터 애플리케이션 <a id="05-data-application"></a>
 
