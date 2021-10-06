@@ -11,9 +11,9 @@
 
 ## 02 - 데이터 처리 <a id="02-processing"></a>
 
-* [2.1 데이터 처리](02-processing/2.1/README.md)
-  * [Untitled](02-processing/2.1/untitled.md)
-* [2.2 배치 \(Batch\) 처리](02-processing/2.2-batch.md)
+* [2.1 데이터 처리](02-processing/2.1.md)
+* [2.2 배치 \(Batch\) 처리](02-processing/2.2-batch/README.md)
+  * [2.1.1 Apache Spark](02-processing/2.2-batch/untitled.md)
 * [2.3 워크플로우 \(Workflow\) 관리](02-processing/2.3-workflow.md)
 * [2.4 스트림 \(Stream\) 처리](02-processing/2.4-stream.md)
 
