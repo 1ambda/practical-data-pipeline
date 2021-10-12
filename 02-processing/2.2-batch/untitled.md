@@ -1,4 +1,4 @@
-# 2.1.1 Apache Spark
+# 2.1.1 Spark Intro
 
 [Apache Spark](https://spark.apache.org) 는 데이터 처리를 위한 범용 프레임워크 입니다. 데이터 파이프라인을 위해 많이 사용되며, 산업 표준에 가깝습니다. 
 
@@ -11,10 +11,9 @@
   * [Spark MLLib (머신러닝 라이브러리)](https://spark.apache.org/docs/latest/ml-guide.html)
   * [GraphX (그래프 데이터 처리 라이브러리)](https://spark.apache.org/docs/latest/graphx-programming-guide.html)
 * 다양한 실행 모드 및 환경을 지원해 어느 환경에서나 사용할 수 있습니다.
-  * Spark Shell 
-  * Local Mode
-  * Client Mode
-  * Cluster Mode
-  * Standalone / Yarn / Kubernetes
+  * Spark Shell / Jupyter Notebook
+  * Local Mode / Client Mode / Cluster Mode
+  * Standalone / Yarn / Kubernetes Environment
+  * Spark Batch / Stream Streaming
 
-따라서 원하는 환경에서 다양한 커넥터를 이용해 데이터를 추출하고, 원하는 언어와 API 그리고 라이브러리를 이용해 분산처리를 수행할 수 있는 **범용** 데이터 처리 도구입니다.
+따라서 Spark 는 여러 환경에서 다양한 커넥터를 이용해 데이터를 추출하고, 원하는 언어와 API 그리고 라이브러리를 이용해 분산처리를 수행할 수 있는 **범용** 데이터 처리 도구입니다.
