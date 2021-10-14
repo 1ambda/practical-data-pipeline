@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Practical Data Pipeline](README.md)
-* [시작 전에 드리는 당부의 말](undefined.md)
+* [시작 전에 드리는 당부의 말](disclaimer.md)
 
 ## 01 - 데이터 수집 <a href="01-ingestion" id="01-ingestion"></a>
 
@@ -14,9 +14,10 @@
 * [2.1 데이터 처리](02-processing/2.1.md)
 * [2.2 배치 (Batch) 처리](02-processing/2.2-batch/README.md)
   * [2.1.1 Spark Intro](02-processing/2.2-batch/untitled.md)
-  * [2.1.2 Spark Concept](02-processing/2.2-batch/2.1.2-spark-architecture.md)
-  * [2.1.3 Spark Mode](02-processing/2.2-batch/2.1.3-spark-mode.md)
-  * [2.1.4 Spark Environment](02-processing/2.2-batch/2.1.4-spark-environment.md)
+  * [2.1.2 Spark Tutorial](02-processing/2.2-batch/2.1.2-spark-tutorial.md)
+  * [2.1.3 Spark Architecture](02-processing/2.2-batch/2.1.3-spark-architecture.md)
+  * [2.1.4 Spark Mode](02-processing/2.2-batch/2.1.3-spark-mode.md)
+  * [2.1.5 Spark Environment](02-processing/2.2-batch/2.1.4-spark-environment.md)
   * [2.1.5 Spark Memory Management](02-processing/2.2-batch/2.1.5-spark-memory-management.md)
   * [2.1.6 PySpark](02-processing/2.2-batch/2.1.6-pyspark.md)
   * [2.1.7 Spark on Kubernetes](02-processing/2.2-batch/2.1.7-spark-on-kubernetes.md)
