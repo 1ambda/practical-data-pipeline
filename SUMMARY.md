@@ -18,8 +18,10 @@
   * [2.1.3 Spark Concept](02-processing/2.2-batch/2.1.3-spark-concept.md)
   * [2.1.4 Spark Architecture](02-processing/2.2-batch/2.1.4-spark-architecture.md)
   * [2.1.X Spark DataFrame](02-processing/2.2-batch/2.1.x-spark-dataframe.md)
+  * [2.1.X Spark Persistence](02-processing/2.2-batch/2.1.x-spark-persistence.md)
   * [2.1.X Spark Cache](02-processing/2.2-batch/2.1.x-spark-cache.md)
   * [2.1.X Spark SQL & Table](02-processing/2.2-batch/2.1.x-spark-sql-and-table.md)
+  * [2.1.X Spark Join](02-processing/2.2-batch/2.1.x-spark-join.md)
   * [2.1.X Spark Memory](02-processing/2.2-batch/2.1.5-spark-memory-management.md)
   * [2.1.X Spark Environment](02-processing/2.2-batch/2.1.3-spark-mode.md)
   * [2.1.X Spark Metastore](02-processing/2.2-batch/2.1.x-spark-metastore.md)
@@ -48,6 +50,15 @@
 * [5.2 통계 서비스](05-data-application/5.2.md)
 * [5.3 추천 서비스](05-data-application/5.3.md)
 * [5.4 A/B 테스팅](05-data-application/5.4.md)
+
+## 08 - Case Study
+
+* [Week 1 - Data Pipeline](08-case-study/week-1-data-pipeline.md)
+* [Week 2 - EMR & Kubernetes](08-case-study/week-2-emr-and-kubernetes.md)
+* [Week 3 - Metastore](08-case-study/week-3-metastore.md)
+* [Week 4 - KV & Delta Storage](08-case-study/week-4-kv-and-delta-storage.md)
+* [Week 5 - Kafka Rebalancing](08-case-study/week-5-kafka-rebalancing.md)
+* [Week 6 - ML Pipeline](08-case-study/week-6-ml-pipeline.md)
 
 ## 09 - 설치 및 환경 구성 <a href="09-installation" id="09-installation"></a>
 
