@@ -3,11 +3,13 @@
 * [Practical Data Pipeline](README.md)
 * [시작 전에 드리는 당부의 말](undefined.md)
 
-## 01 - 데이터 수집 <a href="01-ingestion" id="01-ingestion"></a>
+## 01 - 데이터 인프라 <a href="01-data-infra" id="01-data-infra"></a>
 
-* [1.1 데이터 수집](01-ingestion/1.1.md)
-* [1.2 데이터 포맷](01-ingestion/1.2.md)
-* [1.3 데이터 수집 인프라](01-ingestion/1.3.md)
+* [1.X 데이터 파이프라인](01-data-infra/1.1.md)
+* [1.X 데이터 입수 (Ingestion)](01-data-infra/1.2.md)
+* [1.X 데이터 가공 (Processing)](01-data-infra/1.x-processing.md)
+* [1.X 데이터 저장 (Storage)](01-data-infra/1.x-storage.md)
+* [1.X 데이터 분석 (Analysis)](01-data-infra/1.3.md)
 
 ## 02 - 데이터 처리 <a href="02-processing" id="02-processing"></a>
 
@@ -28,12 +30,6 @@
   * [2.1.6 PySpark](02-processing/2.2-batch/2.1.6-pyspark.md)
 * [2.3 워크플로우 (Workflow) 관리](02-processing/2.3-workflow.md)
 * [2.4 스트림 (Stream) 처리](02-processing/2.4-stream.md)
-
-## 03 - 데이터 분석 인프라 <a href="03-analysis-infra" id="03-analysis-infra"></a>
-
-* [3.1 데이터 분석 인프라](03-analysis-infra/3.1.md)
-* [3.2 데이터 조회 시스템](03-analysis-infra/untitled.md)
-* [3.3 데이터 모니터링](03-analysis-infra/3.2.md)
 
 ## 04 - 데이터 스토리지 <a href="04-data-storage" id="04-data-storage"></a>
 
