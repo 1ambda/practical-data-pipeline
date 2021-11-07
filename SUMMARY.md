@@ -25,8 +25,6 @@
   * [2.1.8 Spark SQL & Table](02-processing/2.2-batch/2.1.x-spark-sql-and-table.md)
   * [2.1.9 Spark Join](02-processing/2.2-batch/2.1.x-spark-join.md)
   * [2.2.1 Spark Memory](02-processing/2.2-batch/2.1.5-spark-memory-management.md)
-  * [2.2.2 Spark Environment](02-processing/2.2-batch/2.2.2-spark-environment.md)
-  * [2.2.3 PySpark](02-processing/2.2-batch/2.1.6-pyspark.md)
 * [2.3 워크플로우 (Workflow) 관리](02-processing/2.3-workflow.md)
 * [2.4 스트림 (Stream) 처리](02-processing/2.4-stream.md)
 
