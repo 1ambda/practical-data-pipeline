@@ -5,11 +5,11 @@
 
 ## 01 - 데이터 인프라 <a href="01-data-infra" id="01-data-infra"></a>
 
-* [1.X 데이터 파이프라인](01-data-infra/1.1.md)
-* [1.X 데이터 입수 (Ingestion)](01-data-infra/1.2.md)
-* [1.X 데이터 가공 (Processing)](01-data-infra/1.x-processing.md)
-* [1.X 데이터 저장 (Storage)](01-data-infra/1.x-storage.md)
-* [1.X 데이터 분석 (Analysis)](01-data-infra/1.3.md)
+* [1.1 데이터 파이프라인 (Full)](01-data-infra/1.1.md)
+* [1.2 데이터 입수 (Ingestion)](01-data-infra/1.2.md)
+* [1.2 데이터 가공 (Processing)](01-data-infra/1.2-processing.md)
+* [1.3 데이터 저장 (Storage)](01-data-infra/1.3-storage.md)
+* [1.4 데이터 분석 (Analysis)](01-data-infra/1.3.md)
 
 ## 02 - 데이터 처리 <a href="02-processing" id="02-processing"></a>
 
