@@ -37,7 +37,7 @@ Spark SQL / Dataframe / Dataset API 등 다양한 형태의 API 를 제공해 �
 
 
 
-![Spark Cluster Manager ()https://medium.com/@rachit1arora/why-run-spark-on-kubernetes-51c0ccb39c9b](<../../.gitbook/assets/image (12) (1).png>)
+![Spark Cluster Manager ()https://medium.com/@rachit1arora/why-run-spark-on-kubernetes-51c0ccb39c9b](<../../.gitbook/assets/image (12) (1) (1).png>)
 
 * 다양한 실행 모드 및 환경을 지원해 어느 환경에서나 사용할 수 있습니다.
   * Spark Shell / Jupyter Notebook
