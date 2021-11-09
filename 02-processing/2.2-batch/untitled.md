@@ -17,7 +17,7 @@ Scala 이외에도 Python, R 등 다양한 언어를 지원하며 데이터 처�
 
 
 
-![Spark APIs (Slide)](<../../.gitbook/assets/image (23).png>)
+![Spark APIs (Slide)](<../../.gitbook/assets/image (23) (1).png>)
 
 Spark SQL / Dataframe / Dataset API 등 다양한 형태의 API 를 제공해 사용자 편의 및 개발 환경에 따라 자유롭게 선택할 수 있습니다.&#x20;
 
