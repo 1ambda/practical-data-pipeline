@@ -5,7 +5,7 @@
 
 ## 01 - 데이터 인프라 <a href="01-data-infra" id="01-data-infra"></a>
 
-* [1.1 데이터 파이프라인 (Full)](01-data-infra/1.1.md)
+* [1.1 데이터 파이프라인](01-data-infra/1.1.md)
 * [1.2 데이터 입수 (Ingestion)](01-data-infra/1.2.md)
 * [1.2 데이터 가공 (Processing)](01-data-infra/1.2-processing.md)
 * [1.3 데이터 저장 (Storage)](01-data-infra/1.3-storage.md)

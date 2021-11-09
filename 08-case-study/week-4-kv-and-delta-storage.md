@@ -1,11 +1,3 @@
 # Week 4 - KV & Delta Storage
 
-DynamoDB
-
-
-
-Hudi
-
-Druid
-
-DeltaLake
+Practical Spark 의 이론 과정입니다.
