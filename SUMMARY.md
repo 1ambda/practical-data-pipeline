@@ -15,7 +15,7 @@
 
 * [2.1 데이터 처리](02-processing/2.1.md)
 * [2.2 배치 (Batch) 처리](02-processing/2.2-batch/README.md)
-  * [2.1.1 Spark Intro](02-processing/2.2-batch/untitled.md)
+  * [2.1.1 Spark Intro](02-processing/2.2-batch/2.1.1-spark-intro.md)
   * [2.1.2 Spark Tutorial](02-processing/2.2-batch/2.1.2-spark-architecture.md)
   * [2.1.3 Spark Concept](02-processing/2.2-batch/2.1.3-spark-concept.md)
   * [2.1.4 Spark Architecture](02-processing/2.2-batch/2.1.4-spark-architecture.md)
@@ -26,7 +26,11 @@
   * [2.1.9 Spark Join](02-processing/2.2-batch/2.1.x-spark-join.md)
   * [2.2.1 Spark Memory](02-processing/2.2-batch/2.1.5-spark-memory-management.md)
 * [2.3 워크플로우 (Workflow) 관리](02-processing/2.3-workflow.md)
-* [2.4 스트림 (Stream) 처리](02-processing/2.4-stream.md)
+* [2.4 스트림 (Stream) 처리](02-processing/2.4-stream/README.md)
+  * [2.4.1 Spark Streaming Intro](02-processing/2.4-stream/2.4.1-spark-streaming-intro.md)
+  * [2.4.2 Spark Structured Streaming](02-processing/2.4-stream/2.4.2-spark-structured-streaming.md)
+  * [2.4.3 Spark Streaming Window](02-processing/2.4-stream/2.4.3-spark-streaming-window.md)
+  * [2.4.4 Spark Streaming State](02-processing/2.4-stream/2.4.4-spark-streaming-state.md)
 
 ## 04 - 데이터 스토리지 <a href="04-data-storage" id="04-data-storage"></a>
 
