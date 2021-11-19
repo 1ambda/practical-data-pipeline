@@ -35,7 +35,10 @@
 
 ## 04 - 데이터 스토리지 <a href="04-data-storage" id="04-data-storage"></a>
 
-* [4.1 Kafka](04-data-storage/untitled.md)
+* [4.1 Kafka](04-data-storage/untitled/README.md)
+  * [4.1 Kafka Concept](04-data-storage/untitled/4.1-kafka-concept.md)
+  * [4.2 Kafka Advanced](04-data-storage/untitled/4.2-kafka-advanced.md)
+  * [4.3 Kafka Versions](04-data-storage/untitled/4.3-kafka-versions.md)
 * [4.2 Redis](04-data-storage/4.2.md)
 * [4.3 RDB (MySQL)](04-data-storage/4.3-rdb-mysql.md)
 * [4.4 ElasticSearch](04-data-storage/4.4.md)
