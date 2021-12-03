@@ -3,7 +3,7 @@
 * [Practical Data Pipeline](README.md)
 * [시작 전에 드리는 당부의 말](undefined.md)
 
-## 01 - 데이터 인프라 <a href="01-data-infra" id="01-data-infra"></a>
+## 01 - 데이터 인프라 <a href="#01-data-infra" id="01-data-infra"></a>
 
 * [1.1 데이터 파이프라인](01-data-infra/1.1.md)
 * [1.2 데이터 입수 (Ingestion)](01-data-infra/1.2.md)
@@ -11,7 +11,7 @@
 * [1.3 데이터 저장 (Storage)](01-data-infra/1.3-storage.md)
 * [1.4 데이터 분석 (Analysis)](01-data-infra/1.3.md)
 
-## 02 - 데이터 처리 <a href="02-processing" id="02-processing"></a>
+## 02 - 데이터 처리 <a href="#02-processing" id="02-processing"></a>
 
 * [2.1 데이터 처리](02-processing/2.1.md)
 * [2.2 배치 (Batch) 처리](02-processing/2.2-batch/README.md)
@@ -28,12 +28,12 @@
   * [2.2.2 Spark Versions](02-processing/2.2-batch/2.2.2-spark-versions.md)
 * [2.3 워크플로우 (Workflow) 관리](02-processing/2.3-workflow.md)
 * [2.4 스트림 (Stream) 처리](02-processing/2.4-stream/README.md)
-  * [2.4.1 Spark Streaming Intro](02-processing/2.4-stream/2.4.1-spark-streaming-intro.md)
-  * [2.4.2 Spark Structured Streaming](02-processing/2.4-stream/2.4.2-spark-structured-streaming.md)
-  * [2.4.3 Spark Streaming Window](02-processing/2.4-stream/2.4.3-spark-streaming-window.md)
-  * [2.4.4 Spark Streaming State](02-processing/2.4-stream/2.4.4-spark-streaming-state.md)
+  * [2.4.1 Kafka Intro](02-processing/2.4-stream/2.4.1-kafka-intro.md)
+  * [2.4.2 Spark Streaming](02-processing/2.4-stream/2.4.2-spark-streaming.md)
+  * [2.4.3 Streaming Window](02-processing/2.4-stream/2.4.3-streaming-window.md)
+  * [2.4.4 Streaming State](02-processing/2.4-stream/2.4.4-streaming-state.md)
 
-## 04 - 데이터 스토리지 <a href="04-data-storage" id="04-data-storage"></a>
+## 04 - 데이터 스토리지 <a href="#04-data-storage" id="04-data-storage"></a>
 
 * [4.1 Kafka](04-data-storage/untitled/README.md)
   * [4.1 Kafka Concept](04-data-storage/untitled/4.1-kafka-concept.md)
@@ -45,7 +45,7 @@
 * [4.5 KV Storage (DynamoDB)](04-data-storage/4.5-kv-storage-dynamodb.md)
 * [4.6 Druid](04-data-storage/4.6-druid.md)
 
-## 05 - 데이터 애플리케이션 <a href="05-data-application" id="05-data-application"></a>
+## 05 - 데이터 애플리케이션 <a href="#05-data-application" id="05-data-application"></a>
 
 * [5.1 데이터 서비스](05-data-application/untitled.md)
 * [5.2 통계 서비스](05-data-application/5.2.md)
@@ -61,7 +61,7 @@
 * [Week 5 - Kafka Rebalancing](08-case-study/week-5-kafka-rebalancing.md)
 * [Week 6 - ML Pipeline](08-case-study/week-6-ml-pipeline.md)
 
-## 09 - 설치 및 환경 구성 <a href="09-installation" id="09-installation"></a>
+## 09 - 설치 및 환경 구성 <a href="#09-installation" id="09-installation"></a>
 
 * [Spark 설치 및 환경 구성](09-installation/spark/README.md)
   * [Spark - Local Shell 환경](09-installation/spark/spark-local-shell.md)
