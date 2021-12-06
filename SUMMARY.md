@@ -29,9 +29,10 @@
 * [2.3 워크플로우 (Workflow) 관리](02-processing/2.3-workflow.md)
 * [2.4 스트림 (Stream) 처리](02-processing/2.4-stream/README.md)
   * [2.4.1 Kafka Intro](02-processing/2.4-stream/2.4.1-kafka-intro.md)
-  * [2.4.2 Spark Streaming](02-processing/2.4-stream/2.4.2-spark-streaming.md)
-  * [2.4.3 Streaming Window](02-processing/2.4-stream/2.4.3-streaming-window.md)
-  * [2.4.4 Streaming State](02-processing/2.4-stream/2.4.4-streaming-state.md)
+  * [2.4.2 Kafka Advanced](02-processing/2.4-stream/2.4.2-kafka-advanced.md)
+  * [2.4.3 Spark Streaming](02-processing/2.4-stream/2.4.3-spark-streaming.md)
+  * [2.4.4 Streaming Window](02-processing/2.4-stream/2.4.4-streaming-window.md)
+  * [2.4.5 Streaming State](02-processing/2.4-stream/2.4.5-streaming-state.md)
 
 ## 04 - 데이터 스토리지 <a href="#04-data-storage" id="04-data-storage"></a>
 
