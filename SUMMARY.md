@@ -33,9 +33,7 @@
   * [2.4.3 Spark Streaming](02-processing/2.4-stream/2.4.3-spark-streaming.md)
   * [2.4.4 Streaming Window](02-processing/2.4-stream/2.4.4-streaming-window.md)
   * [2.4.5 Streaming State](02-processing/2.4-stream/2.4.5-streaming-state.md)
-  * [2.4.6 Streaming Patterns](02-processing/2.4-stream/2.4.6-streaming-patterns.md)
-  * [2.4.7 Streaming Checkpoint](02-processing/2.4-stream/2.4.7-streaming-checkpoint.md)
-  * [2.4.8 Streaming w/ Kafka](02-processing/2.4-stream/2.4.8-streaming-w-kafka.md)
+  * [2.4.6 Streaming Checkpoint](02-processing/2.4-stream/2.4.6-streaming-checkpoint.md)
 
 ## 04 - 데이터 스토리지 <a href="#04-data-storage" id="04-data-storage"></a>
 
